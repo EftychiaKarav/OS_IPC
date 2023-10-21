@@ -1,6 +1,3 @@
-// AM: 1115201800062
-// KARAVANGELI EFTYCHIA
-
 #include <openssl/md5.h>
 #include "semoper.h"
 #define CHAN_PATH_SIZE 255

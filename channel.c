@@ -1,6 +1,3 @@
-// AM: 1115201800062
-// KARAVANGELI EFTYCHIA
-
 #include "semoper.h"
 #include <time.h>
 #define PROBABILITY_OF_CHANGE 0.2
