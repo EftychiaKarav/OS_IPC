@@ -1,6 +1,3 @@
-// AM: 1115201800062
-// KARAVANGELI EFTYCHIA
-
 #ifndef SEMOPER_H
 #define SEMOPER_H                 /* Prevent accidental double inclusion */
 

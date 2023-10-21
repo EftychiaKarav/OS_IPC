@@ -1,6 +1,4 @@
-# AM: 1115201800062
-# KARAVANGELI EFTYCHIA
-# Makefile arxeio
+# Makefile 
 
 CC = gcc
 CFLAGS = -g -Wall

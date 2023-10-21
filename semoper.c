@@ -1,6 +1,3 @@
-// AM: 1115201800062
-// KARAVANGELI EFTYCHIA
-
 #include "semoper.h"
 
 
