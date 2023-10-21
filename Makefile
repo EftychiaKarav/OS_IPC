@@ -1,4 +1,4 @@
-# Makefile 
+# Makefile
 
 CC = gcc
 CFLAGS = -g -Wall
